@@ -52,7 +52,7 @@ In each image, the main parameters and caracteristics that the program has to de
 + _Número de palavras na primeira linha da morada excluindo o número de porta (2,3,...)._
 + _Número da porta à direita da primeira linha da morada (10 a 999)._
 + _Dígitos do código postal (dois grupos de 4 dígitos cada um)._
-  **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
+  **Nota:** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
 
 
 ![Capturar](https://github.com/Nunoc99/SVPI-TP1/assets/114221939/306f631a-995d-4163-9e90-d72609854b31)
