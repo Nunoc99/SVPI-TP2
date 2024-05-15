@@ -37,16 +37,8 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 
  
 ## Parameters to detect in each image
-In each image, the main parameters and caracteristics that the program has to detect are:
-+ Total number of meaningless objects.
-+ Total number of barcodes.
-+ Total number of QR codes.
-+ Number of barcodes in each of the 4 possible orientations.
-+ Number of valid barcodes with axial reflection.
-+ Number of invalid barcodes according to the statment.
-+ Total cumulative number of digits represented in valid barcodes.
-+ Number of valid barcodes in each of the 3 possible encodings (’L’, ’R’, ’G’).
-+ String with the central digits of the valid barcodes sorted in ascending order.
+> _**ING**_
+> TO BE WRITTEN...
 
 > _**PT**_
 
