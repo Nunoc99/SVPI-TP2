@@ -21,6 +21,7 @@ necessário definir e treinar uma rede neuronal que fará o reconhecimento o mel
 dados do MNIST e integrar a sua utilização no programa final._
 
 > **Figure1** ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
+*image_caption*
 
 
 
