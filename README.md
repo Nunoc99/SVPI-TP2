@@ -20,8 +20,8 @@ do dataset MNIST. Assim, além das técnicas de segmentação para isolar os ele
 necessário definir e treinar uma rede neuronal que fará o reconhecimento o melhor possível da base de
 dados do MNIST e integrar a sua utilização no programa final._
 
-![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
-> **Figure1**
+> **Figure1** ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
+
 
 
 The main caracteristics of the images are as follows:
