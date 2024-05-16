@@ -113,12 +113,11 @@ Starting with the **_Figure 3_**, as it can be seen, I thought that these 7 imag
 image but after it has been oriented, because, like it was said above, some pictures envelope may be rotated, which is the case that can be seen in 
 **_Figure 4_**, which concludes that the first thing that the program does is, check the orientation and if needed, reorientate the envelope.
 
-*Figure 3*
 ![setup](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/c63d02c3-cb05-41a2-abe1-e12560c05ce2)
+*Figure 3*
 
-*Figure 4*
 ![setup3](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/1949fb2b-402a-40c8-adba-9e12db1e070a)
-
+*Figure 4*
 
 The next step, already with the envelope with the correct orientation, is to start the process of classification of the stamp, first, as you can see in the third
 window "Isolated Stamp" the stamp is already isolated from the rest of the envelope, which allowed me to start working with object descriptors like "BoundingBox",
@@ -132,9 +131,8 @@ door number, and the second one, being the door number, can be seen in the seven
 "Line 3", I displayed the postcode digits, after that, I cropped them and put them in 28x28 pixels images, sixth window "Char1, Char2, ...", so that it was able to send those 
 images into the neural network, for them to be analysed and have a corresponding character.
 
-
-*Figure 5*
 ![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
+*Figure 5*
 
 In conclusion, in **_Figure 5_**, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
