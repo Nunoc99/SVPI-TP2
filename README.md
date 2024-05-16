@@ -21,6 +21,7 @@ necessário definir e treinar uma rede neuronal que fará o reconhecimento o mel
 dados do MNIST e integrar a sua utilização no programa final._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
+> **Figure1**
 
 
 The main caracteristics of the images are as follows:
@@ -106,9 +107,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 ## RESULTS
 Visual demonstration of the program working.
 
-On the left there's a figure with 6 subplots where it can be seen the original image, then the whole image treatment process to isolate the image's objects from the background, through binarization and edge detection process it was able to delete the noise in the background.
-
-On the right side of the picture, there's a figure with, in this case, 32 subplots because in this image there are 32 objects in the image, know that, the image subplot size addpats to the number of objects in the image. From this image, each object will be analyzed 1 by 1 to get all the parameters in question, this means, each identified barcode will go through a process of 4 types of scaling, 4 types of rotation and 3 types of axial reflection and it will stop when the barcode is in the correct scale, orientation and if there is a axial reflection or not. Now, for the QR codes, each one will also go through a process of 4 types of scaling and 4 types of orientation till it founds it's correct scale and orientation, then, get it's properties.
+Starting with the first picture, as it can be seen 
 
 At the bottom of the picture, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
