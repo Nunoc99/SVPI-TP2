@@ -17,6 +17,7 @@ define and train a neural network that will recognise the MNIST database as well
 database and integrate its use into the final program.
 
 > _**PT**_
+> 
 >  _Desenvolvimento de um programa em Matlab para fazer análise de imagens que representam envelopes
 com moradas que contêm elementos vários, em especial o texto do destinatário, incluindo um código
 postal em caracteres manuscritos da base de dados do MNIST (http://yann.lecun.com/exdb/mnist),
@@ -46,6 +47,7 @@ The main caracteristics of the images are as follows:
 in the examples provided, but which do not need to be analysed or classified for this paper.
 
 > _**PT**_
+> 
 > _As características gerais das imagens são as seguintes:_
 > + _As imagens são a cores._
 > + _As imagens podem estar rodadas e a zona do fundo fora do envelope será em nível de cinzento._
@@ -67,6 +69,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 + Postcode digits (two groups of 4 digits each).
 
 > _**PT**_
+> 
 > _Em cada imagem, os principais parâmetros e características a detetar pelo programa do aluno são:_
 > + _Tipo de selo dos possíveis da lista indicada na figura 2 (1,2,3, ...,7)._
 > + _Número de palavras no nome do destinatário (2,3,...)._
