@@ -121,5 +121,6 @@ At the bottom of the picture, there is a txt file which is created when the prog
 ![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
 *Figure 5*
 
+hahaha
 
 
