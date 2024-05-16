@@ -17,7 +17,6 @@ define and train a neural network that will recognise the MNIST database as well
 database and integrate its use into the final program.
 
 > _**PT**_
-
  _Desenvolvimento de um programa em Matlab para fazer análise de imagens que representam envelopes
 com moradas que contêm elementos vários, em especial o texto do destinatário, incluindo um código
 postal em caracteres manuscritos da base de dados do MNIST (http://yann.lecun.com/exdb/mnist),
