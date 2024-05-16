@@ -75,6 +75,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 > + _Número de palavras na primeira linha da morada excluindo o número de porta (2,3,...)._
 > + _Número da porta à direita da primeira linha da morada (10 a 999)._
 > + _Dígitos do código postal (dois grupos de 4 dígitos cada um)._
+>   
 > **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5a1cabf0-b84b-47f4-a3c5-41f3f247e1d6)
