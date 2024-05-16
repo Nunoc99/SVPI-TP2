@@ -46,7 +46,6 @@ The main caracteristics of the images are as follows:
 in the examples provided, but which do not need to be analysed or classified for this paper.
 
 > _**PT**_
-
 _As características gerais das imagens são as seguintes:_
 + _As imagens são a cores._
 + _As imagens podem estar rodadas e a zona do fundo fora do envelope será em nível de cinzento._
@@ -68,7 +67,6 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 + Postcode digits (two groups of 4 digits each).
 
 > _**PT**_
-
  _Em cada imagem, os principais parâmetros e características a detetar pelo programa do aluno são:_
 + _Tipo de selo dos possíveis da lista indicada na figura 2 (1,2,3, ...,7)._
 + _Número de palavras no nome do destinatário (2,3,...)._
