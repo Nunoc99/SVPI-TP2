@@ -20,8 +20,8 @@ do dataset MNIST. Assim, além das técnicas de segmentação para isolar os ele
 necessário definir e treinar uma rede neuronal que fará o reconhecimento o melhor possível da base de
 dados do MNIST e integrar a sua utilização no programa final._
 
-> **Figure1** ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
-*image_caption*
+![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
+*Figure 1*
 
 
 
@@ -68,7 +68,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
  **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5a1cabf0-b84b-47f4-a3c5-41f3f247e1d6)
-
+*Figure 2*
 
 ## Variables to get from each object
 + **numMec** - Number of the student.
@@ -113,10 +113,10 @@ Starting with the first picture, as it can be seen
 At the bottom of the picture, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
 ![setup](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/c63d02c3-cb05-41a2-abe1-e12560c05ce2)
-
+*Figure 3*
 
 ![setup3](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/1949fb2b-402a-40c8-adba-9e12db1e070a)
-
+*Figure 4*
 
 ![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
-
+*Figure 5*
