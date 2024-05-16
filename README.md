@@ -132,11 +132,11 @@ door number, and the second one, being the door number, can be seen in the seven
 "Line 3", I displayed the postcode digits, after that, I cropped them and put them in 28x28 pixels images, sixth window "Char1, Char2, ...", so that it was able to send those 
 images into the neural network, for them to be analysed and have a corresponding character.
 
-In conclusion, in **_Figure 5_**, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
-
 
 *Figure 5*
 ![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
+
+In conclusion, in **_Figure 5_**, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
 
 
