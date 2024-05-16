@@ -3,7 +3,17 @@ Decoding information on envelopes with handwritten text
 
 ## Goal
 > _**ING**_
-> TO BE WRITTEN...
+Development of a programme in Matlab to analyse images representing envelopescontaining various elements, in particular the recipient's text, including a postcode in handwritten characters from the MNIST database ().
+in handwritten characters from the MNIST database (http://yann.lecun.com/exdb/mnist),
+which must be detected and processed. The programme must be able to interpret images provided
+and generate the requested results and write them to a file, as described below. Example
+example images will be provided to enable development, but the images used to obtain the evaluation results will be new.
+results will be new. Although a significant part of the processes can be carried out using
+traditional machine vision techniques, the detection of handwritten characters will require the use of techniques used in
+in Artificial Intelligence, such as neural networks, particularly those capable of recognising the characters in the
+from the MNIST dataset. Therefore, in addition to segmentation techniques to isolate the elements to be classified, it will be necessary to
+define and train a neural network that will recognise the MNIST database as well as possible and integrate its
+database and integrate its use into the final programme.
 
 > _**PT**_
 
