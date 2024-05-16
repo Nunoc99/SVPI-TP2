@@ -24,7 +24,15 @@ dados do MNIST e integrar a sua utilização no programa final._
 
 
 > _**ING**_
-> TO BE WRITTEN..
+
+The main caracteristics of the images are as follows:
++ The images are colored (RGB).
++ The images may be rotated and the background area outside the envelope will be in grayscale.
++ The images contain 4 lines of variably positioned text.
++ The images may contain a stamp which may have a variable position and orientation.
++ Envelopes can have different colours, as in the examples provided.
++ There may be other accessory elements on the envelopes (symbols, stamps, etc.), as illustrated in the examples provided.
+in the examples provided, but which do not need to be analysed or classified for this paper.
 
 > _**PT**_
 
