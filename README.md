@@ -23,8 +23,6 @@ dados do MNIST e integrar a sua utilização no programa final._
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
 
 
-> _**ING**_
-
 The main caracteristics of the images are as follows:
 + The images are colored (RGB).
 + The images may be rotated and the background area outside the envelope will be in grayscale.
@@ -47,7 +45,6 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 
  
 ## Parameters to detect in each image
-> _**ING**_
 
  In each image, the main parameters and caracteristics that the program has to detect are:
 + Possible stamp type from the list shown below (1,2,3, ...,7).
