@@ -108,10 +108,10 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 ## RESULTS
 Visual demonstration of the program working.
 
-Starting with the _Figure 3_, as it can be seen, I thought that these 7 image windows were enough to show what the program does in a generic form. So, in
+Starting with the **_Figure 3_**, as it can be seen, I thought that these 7 image windows were enough to show what the program does in a generic form. So, in
 "Original Img" window is displayed the original image that enters the program to be analysed, in the second window "Oriented Image" is displayed the same
 image but after it has been oriented, because, like it was said above, some pictures envelope may be rotated, which is the case that can be seen in 
-_Figure 4_, which concludes that the first thing that the program does is, check the orientation and if needed, reorientate the envelope.
+**_Figure 4_**, which concludes that the first thing that the program does is, check the orientation and if needed, reorientate the envelope.
 
 The next step, already with the envelope with the correct orientation, is to start the process of classification of the stamp, first, as you can see in the third
 window "Isolated Stamp" the stamp is already isolated from the rest of the envelope, which allowed me to start working with object descriptors like "BoundingBox",
@@ -125,7 +125,7 @@ door number, and the second one, being the door number, can be seen in the seven
 "Line 3", I displayed the postcode digits, after that, I cropped them and put them in 28x28 pixels images, sixth window "Char1, Char2, ...", so that it was able to send those 
 images into the neural network, for them to be analysed and have a corresponding character.
 
-In conclusion, in _Figure 5_, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
+In conclusion, in **_Figure 5_**, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
 ![setup](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/c63d02c3-cb05-41a2-abe1-e12560c05ce2)
 *Figure 3*
