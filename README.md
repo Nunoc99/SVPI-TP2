@@ -133,7 +133,8 @@ In conclusion, in **_Figure 5_**, there is a txt file which is created when the 
 ![setup3](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/1949fb2b-402a-40c8-adba-9e12db1e070a)
 *Figure 4*
 
-![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f).
+![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
+
 *Figure 5*
 
 
