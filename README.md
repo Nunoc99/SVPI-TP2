@@ -21,6 +21,7 @@ necessário definir e treinar uma rede neuronal que fará o reconhecimento o mel
 dados do MNIST e integrar a sua utilização no programa final._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/14fc3279-4fb1-4277-9ea9-734807deddaa)
+
 *Figure 1*
 
 
@@ -68,6 +69,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
  **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5a1cabf0-b84b-47f4-a3c5-41f3f247e1d6)
+
 *Figure 2*
 
 ## Variables to get from each object
@@ -114,9 +116,11 @@ image but after it has been oriented, because, like it was said above, some pict
 **_Figure 4_**, which concludes that the first thing that the program does is, check the orientation and if needed, reorientate the envelope.
 
 ![setup](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/c63d02c3-cb05-41a2-abe1-e12560c05ce2)
+
 *Figure 3*
 
 ![setup3](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/1949fb2b-402a-40c8-adba-9e12db1e070a)
+
 *Figure 4*
 
 The next step, already with the envelope with the correct orientation, is to start the process of classification of the stamp, first, as you can see in the third
@@ -132,6 +136,7 @@ door number, and the second one, being the door number, can be seen in the seven
 images into the neural network, for them to be analysed and have a corresponding character.
 
 ![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
+
 *Figure 5*
 
 In conclusion, in **_Figure 5_**, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
