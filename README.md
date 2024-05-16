@@ -48,7 +48,14 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
  
 ## Parameters to detect in each image
 > _**ING**_
-> TO BE WRITTEN...
+
+ In each image, the main parameters and caracteristics that the program has to detect are:
++ Possible stamp type from the list shown below (1,2,3, ...,7).
++ Number of words in the recipient's name (2,3,...).
++ Number of words in the first line of the adress excluding the door number (2,3,...).
++ Door number to the right of the first line of the address (10 a 999).
++ Dígitos do código postal (dois grupos de 4 dígitos cada um).
++ Postcode digits (two groups of 4 digits each).
 
 > _**PT**_
 
