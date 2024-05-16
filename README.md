@@ -112,5 +112,7 @@ On the right side of the picture, there's a figure with, in this case, 32 subplo
 
 At the bottom of the picture, there is a txt file which is created when the program ends. It has in sequence, separated by commas, the values of each parameter.
 
-![setup](https://github.com/Nunoc99/SVPI-TP1/assets/114221939/68917b7a-296c-45d2-bec9-b803da5c5c24)
+![setup](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/c63d02c3-cb05-41a2-abe1-e12560c05ce2)
+
+![setup2](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5ff9b3c6-9aaa-456d-936c-0dda7319ce7f)
 
