@@ -65,6 +65,7 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 + Door number to the right of the first line of the address (10 a 999).
 + Dígitos do código postal (dois grupos de 4 dígitos cada um).
 + Postcode digits (two groups of 4 digits each).
+  
 **Observation:** there may be the case that the stamp is missing from the image. In this case the value is 0 (zero).
 
 > _**PT**_
