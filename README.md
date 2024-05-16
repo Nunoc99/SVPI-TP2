@@ -47,12 +47,12 @@ in the examples provided, but which do not need to be analysed or classified for
 
 > _**PT**_
 _As características gerais das imagens são as seguintes:_
-+ _As imagens são a cores._
-+ _As imagens podem estar rodadas e a zona do fundo fora do envelope será em nível de cinzento._
-+ _As imagens contêm 4 linhas de texto em posição variável._
-+ _As imagens podem conter um selo que poderá ter uma posição e orientação variável._
-+ _Os envelopes podem ter cores diversas, como presente nos exemplos fornecidos._
-+ _Nos envelopes pode haver outros elementos acessórios (símbolos, carimbos, etc.), como ilustrado
+> + _As imagens são a cores._
+> + _As imagens podem estar rodadas e a zona do fundo fora do envelope será em nível de cinzento._
+> + _As imagens contêm 4 linhas de texto em posição variável._
+> + _As imagens podem conter um selo que poderá ter uma posição e orientação variável._
+> + _Os envelopes podem ter cores diversas, como presente nos exemplos fornecidos._
+> + _Nos envelopes pode haver outros elementos acessórios (símbolos, carimbos, etc.), como ilustrado
 nos exemplos disponibilizados, mas que não carecem de análise ou classificação para este trabalho._
 
  
