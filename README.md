@@ -68,13 +68,13 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 
 > _**PT**_
  _Em cada imagem, os principais parâmetros e características a detetar pelo programa do aluno são:_
-+ _Tipo de selo dos possíveis da lista indicada na figura 2 (1,2,3, ...,7)._
-+ _Número de palavras no nome do destinatário (2,3,...)._
-+ _Número de palavras na primeira linha da morada excluindo o número de porta (2,3,...)._
-+ _Número da porta à direita da primeira linha da morada (10 a 999)._
-+ _Dígitos do código postal (dois grupos de 4 dígitos cada um)._
+> + _Tipo de selo dos possíveis da lista indicada na figura 2 (1,2,3, ...,7)._
+> + _Número de palavras no nome do destinatário (2,3,...)._
+> + _Número de palavras na primeira linha da morada excluindo o número de porta (2,3,...)._
+> + _Número da porta à direita da primeira linha da morada (10 a 999)._
+> + _Dígitos do código postal (dois grupos de 4 dígitos cada um)._
   
- **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
+ > **_Nota:_** _pode dar-se o caso de o selo estar ausente da imagem. Nesse caso o valor é 0 (zero)._
 
 ![image](https://github.com/Nunoc99/SVPI-TP2/assets/114221939/5a1cabf0-b84b-47f4-a3c5-41f3f247e1d6)
 
@@ -98,21 +98,21 @@ nos exemplos disponibilizados, mas que não carecem de análise ou classificaç�
 + **D8** - Digit 8 of the postcode (0 to 9).
 
 > _**PT**_
-+ _**numMec** - Número mecanográfico do aluno._
-+ _**numSeq** - Número da sequência da imagem (Cf. nome do ficheiro de imagem)._
-+ _**numImg** - Número da imagem na sequência (Cf. nome do ficheiro de imagem)._
-+ _**stampN** - Número do selo presente no envelope, ou 0 se ausente._
-+ _**numNam** - Número de palavras no nome do destinatário (2,3,...)._
-+ _**numAdd** - Número de palavras na primeira linha da morada excluindo o número da porta (2,3,...)._
-+ _**numDoor** - Número de porta que está à direita na primeira linha da morada (valor entre 10 e 999)._
-+ _**D1** - Dígito 1 (mais à esquerda) do código postal (0 a 9)._
-+ _**D2** - Dígito 2 do código postal (0 a 9)._
-+ _**D3** - Dígito 3 do código postal (0 a 9)._
-+ _**D4** - Dígito 4 do código postal (0 a 9)._
-+ _**D5** - Dígito 5 do código postal (0 a 9)._
-+ _**D6** - Dígito 6 do código postal (0 a 9)._
-+ _**D7** - Dígito 7 do código postal (0 a 9)._
-+ _**D8** - Dígito 8 do código postal (0 a 9)._
+> + _**numMec** - Número mecanográfico do aluno._
+> + _**numSeq** - Número da sequência da imagem (Cf. nome do ficheiro de imagem)._
+> + _**numImg** - Número da imagem na sequência (Cf. nome do ficheiro de imagem)._
+> + _**stampN** - Número do selo presente no envelope, ou 0 se ausente._
+> + _**numNam** - Número de palavras no nome do destinatário (2,3,...)._
+> + _**numAdd** - Número de palavras na primeira linha da morada excluindo o número da porta (2,3,...)._
+> + _**numDoor** - Número de porta que está à direita na primeira linha da morada (valor entre 10 e 999)._
+> + _**D1** - Dígito 1 (mais à esquerda) do código postal (0 a 9)._
+> + _**D2** - Dígito 2 do código postal (0 a 9)._
+> + _**D3** - Dígito 3 do código postal (0 a 9)._
+> + _**D4** - Dígito 4 do código postal (0 a 9)._
+> + _**D5** - Dígito 5 do código postal (0 a 9)._
+> + _**D6** - Dígito 6 do código postal (0 a 9)._
+> + _**D7** - Dígito 7 do código postal (0 a 9)._
+> + _**D8** - Dígito 8 do código postal (0 a 9)._
 
 
 ## RESULTS
